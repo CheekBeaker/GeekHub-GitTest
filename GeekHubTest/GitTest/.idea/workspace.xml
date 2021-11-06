@@ -4,7 +4,49 @@
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="30bc350b-641e-44d0-a741-d222393bd7d4" name="Default Changelist" comment="" />
+    <list default="true" id="30bc350b-641e-44d0-a741-d222393bd7d4" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../GeekHubGitTest/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GeekHubGitTest/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GeekHubGitTest/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GeekHubGitTest/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GeekHubGitTest/.idea/gradle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GeekHubGitTest/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GeekHubGitTest/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GeekHubGitTest/README.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GeekHubGitTest/app/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GeekHubGitTest/app/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GeekHubGitTest/app/proguard-rules.pro" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GeekHubGitTest/app/src/androidTest/java/com/example/geekhubgittest/ExampleInstrumentedTest.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GeekHubGitTest/app/src/main/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GeekHubGitTest/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GeekHubGitTest/app/src/main/res/drawable/ic_launcher_background.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GeekHubGitTest/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GeekHubGitTest/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GeekHubGitTest/app/src/main/res/mipmap-hdpi/ic_launcher.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GeekHubGitTest/app/src/main/res/mipmap-hdpi/ic_launcher_round.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GeekHubGitTest/app/src/main/res/mipmap-mdpi/ic_launcher.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GeekHubGitTest/app/src/main/res/mipmap-mdpi/ic_launcher_round.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GeekHubGitTest/app/src/main/res/mipmap-xhdpi/ic_launcher.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GeekHubGitTest/app/src/main/res/mipmap-xhdpi/ic_launcher_round.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GeekHubGitTest/app/src/main/res/mipmap-xxhdpi/ic_launcher.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GeekHubGitTest/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GeekHubGitTest/app/src/main/res/mipmap-xxxhdpi/ic_launcher.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GeekHubGitTest/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GeekHubGitTest/app/src/main/res/values-night/themes.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GeekHubGitTest/app/src/main/res/values/colors.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GeekHubGitTest/app/src/main/res/values/strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GeekHubGitTest/app/src/main/res/values/themes.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GeekHubGitTest/app/src/test/java/com/example/geekhubgittest/ExampleUnitTest.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GeekHubGitTest/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GeekHubGitTest/gradle.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GeekHubGitTest/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GeekHubGitTest/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GeekHubGitTest/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GeekHubGitTest/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GeekHubGitTest/settings.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -37,7 +79,6 @@
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
   </component>
   <component name="RunManager">
     <configuration name="app" type="AndroidRunConfigurationType" factoryName="Android App">
@@ -122,7 +163,21 @@
       <option name="project" value="LOCAL" />
       <updated>1636223652360</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Another filler commit on the other filler branch.">
+      <created>1636224276043</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1636224276043</updated>
+    </task>
+    <task id="LOCAL-00004" summary="some more">
+      <created>1636224457164</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1636224457164</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -152,6 +207,8 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="Another branch created.&#10;(Dead hard drive forced a AnStud reinstall)" />
     <MESSAGE value="Commit SAMPLETEXT." />
-    <option name="LAST_COMMIT_MESSAGE" value="Commit SAMPLETEXT." />
+    <MESSAGE value="Another filler commit on the other filler branch." />
+    <MESSAGE value="some more" />
+    <option name="LAST_COMMIT_MESSAGE" value="some more" />
   </component>
 </project>
