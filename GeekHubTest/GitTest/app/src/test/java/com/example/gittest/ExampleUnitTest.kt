@@ -1,4 +1,4 @@
-package com.example.geekhubgittest
+package com.example.gittest
 
 import org.junit.Test
 
