@@ -4,49 +4,7 @@
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="30bc350b-641e-44d0-a741-d222393bd7d4" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../GeekHubGitTest/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../GeekHubGitTest/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../GeekHubGitTest/.idea/.name" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../GeekHubGitTest/.idea/compiler.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../GeekHubGitTest/.idea/gradle.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../GeekHubGitTest/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../GeekHubGitTest/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../GeekHubGitTest/README.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../GeekHubGitTest/app/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../GeekHubGitTest/app/build.gradle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../GeekHubGitTest/app/proguard-rules.pro" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../GeekHubGitTest/app/src/androidTest/java/com/example/geekhubgittest/ExampleInstrumentedTest.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../GeekHubGitTest/app/src/main/AndroidManifest.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../GeekHubGitTest/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../GeekHubGitTest/app/src/main/res/drawable/ic_launcher_background.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../GeekHubGitTest/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../GeekHubGitTest/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../GeekHubGitTest/app/src/main/res/mipmap-hdpi/ic_launcher.webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../GeekHubGitTest/app/src/main/res/mipmap-hdpi/ic_launcher_round.webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../GeekHubGitTest/app/src/main/res/mipmap-mdpi/ic_launcher.webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../GeekHubGitTest/app/src/main/res/mipmap-mdpi/ic_launcher_round.webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../GeekHubGitTest/app/src/main/res/mipmap-xhdpi/ic_launcher.webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../GeekHubGitTest/app/src/main/res/mipmap-xhdpi/ic_launcher_round.webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../GeekHubGitTest/app/src/main/res/mipmap-xxhdpi/ic_launcher.webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../GeekHubGitTest/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../GeekHubGitTest/app/src/main/res/mipmap-xxxhdpi/ic_launcher.webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../GeekHubGitTest/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../GeekHubGitTest/app/src/main/res/values-night/themes.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../GeekHubGitTest/app/src/main/res/values/colors.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../GeekHubGitTest/app/src/main/res/values/strings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../GeekHubGitTest/app/src/main/res/values/themes.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../GeekHubGitTest/app/src/test/java/com/example/geekhubgittest/ExampleUnitTest.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../GeekHubGitTest/build.gradle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../GeekHubGitTest/gradle.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../GeekHubGitTest/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../GeekHubGitTest/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../GeekHubGitTest/gradlew" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../GeekHubGitTest/gradlew.bat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../GeekHubGitTest/settings.gradle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="30bc350b-641e-44d0-a741-d222393bd7d4" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -58,13 +16,31 @@
       <ProjectState />
     </projectState>
   </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="GitTest" type="f1a62948:ProjectNode" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$/../.." value="leftBranch" />
+        <entry key="$PROJECT_DIR$/../.." value="sideBranch" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+    <option name="RESET_MODE" value="HARD" />
   </component>
   <component name="ProjectId" id="20YUpMtoyrGFs5Vm1bMwXAGZFDg" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -191,7 +167,7 @@
                   <entry key="branch">
                     <value>
                       <list>
-                        <option value="sideBranch" />
+                        <option value="master" />
                       </list>
                     </value>
                   </entry>
@@ -202,6 +178,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
@@ -209,6 +186,7 @@
     <MESSAGE value="Commit SAMPLETEXT." />
     <MESSAGE value="Another filler commit on the other filler branch." />
     <MESSAGE value="some more" />
-    <option name="LAST_COMMIT_MESSAGE" value="some more" />
+    <MESSAGE value="Preparing to merge everything back..." />
+    <option name="LAST_COMMIT_MESSAGE" value="Preparing to merge everything back..." />
   </component>
 </project>
